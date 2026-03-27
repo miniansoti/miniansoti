@@ -28,6 +28,7 @@ I focus on writing **clean, modular, and maintainable code** that can scale for 
 # 🚀 Previous Projects
 
 ## 🧪 Throw A Potion
+https://www.roblox.com/games/121443243886456/Throw-a-Potion
 
 A chaos-based multiplayer gameplay experience where players throw potions that trigger different effects and combat interactions.
 
