@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Miniansoti
 
 🎮 Roblox Gameplay Systems Developer  
-💻 Luau Programmer (2+ years of experience)  
+💻 Luau Programmer (2+ years of experience)
+🎓 Computer Science student (2nd year)
 🚀 Focused on scalable, modular, and optimized gameplay systems  
 
 📌 Available for commission
