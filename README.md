@@ -113,4 +113,10 @@ Complex systems
 # 📩 Contact
 
 **Discord:** minicutie_  
-**Roblox:** miniansoti
+**Roblox:** miniansoti  
+**Portfolio & Updates:**  
+https://x.com/miniansoti
+
+
+
+
