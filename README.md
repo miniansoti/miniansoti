@@ -92,18 +92,18 @@ My development philosophy focuses on building **robust and scalable systems**.
 ✔ On-time delivery  
 ✔ Open to revisions and improvements  
 
-💰 **Payment: Robux only**
+💰 **Payment: Robux or Paypal**
 
 ### Starting Prices
 
 Small systems / bug fixing  
-**150 Robux**
+**400 Robux or 5$**
 
 Medium gameplay systems  
-**500+ Robux**
+**1000+ Robux or 10$**
 
 Complex systems  
-**2000+ Robux**
+**4000+ Robux or 40$**
 
 ✔ Final price depends on system complexity  
 ✔ Payment via **Gamepass or Group funds**
