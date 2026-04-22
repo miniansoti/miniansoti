@@ -60,6 +60,12 @@ A tower defense experience featuring scaling difficulty, upgrade progression, an
 
 ---
 
+# 🚀 Previous Commission Work   
+
+https://www.roblox.com/games/76035039336902/Easter-Obby(30k+ visits)  
+
+---  
+
 # 🧠 Development Approach
 
 My development philosophy focuses on building **robust and scalable systems**.
@@ -97,13 +103,13 @@ My development philosophy focuses on building **robust and scalable systems**.
 ### Starting Prices
 
 Small systems / bug fixing  
-**400 Robux or 5$**
+**1500 Robux or 5$**
 
 Medium gameplay systems  
-**1000+ Robux or 10$**
+**3000 Robux or 10$**
 
 Complex systems  
-**4000+ Robux or 40$**
+**6000+ Robux or 40$**
 
 ✔ Final price depends on system complexity  
 ✔ Payment via **Gamepass or Group funds**
