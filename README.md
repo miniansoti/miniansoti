@@ -58,11 +58,21 @@ A tower defense experience featuring scaling difficulty, upgrade progression, an
 
 <img width="1140" height="860" alt="image" src="https://github.com/user-attachments/assets/6b2362f4-a0bb-47fa-96fa-9afe4ea015de" />
 
+## 🧪 Cannon Obby
+https://www.roblox.com/games/89022481492309/Cannon-Obby
+
+An obby game but you play with cannon 
+
+### Technical Highlights
+
+- Intergrate UI functionality  
+- Troll UI, Spin UI, DailyReward UI  
+- Refactoring code into module script for further update  
 ---
 
 # 🚀 Previous Commission Work   
 
-https://www.roblox.com/games/76035039336902/Easter-Obby (30k+ visits)  
+https://www.roblox.com/games/76035039336902/Easter-Obby (30k+ visits)
 
 ---  
 
