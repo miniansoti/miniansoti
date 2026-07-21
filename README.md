@@ -67,7 +67,8 @@ An obby game but you play with cannon
 
 - Intergrate UI functionality  
 - Troll UI, Spin UI, DailyReward UI  
-- Refactoring code into module script for further update  
+- Refactoring code into module script for further update
+- (20+ ccu)  
 ---
 
 # 🚀 Previous Commission Work   
