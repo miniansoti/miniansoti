@@ -58,7 +58,7 @@ A tower defense experience featuring scaling difficulty, upgrade progression, an
 
 <img width="1140" height="860" alt="image" src="https://github.com/user-attachments/assets/6b2362f4-a0bb-47fa-96fa-9afe4ea015de" />
 
-## 🧪 Cannon Obby
+## 🧪 Cannon Obby  
 https://www.roblox.com/games/89022481492309/Cannon-Obby
 
 An obby game but you play with cannon 
@@ -68,6 +68,7 @@ An obby game but you play with cannon
 - Intergrate UI functionality  
 - Troll UI, Spin UI, DailyReward UI  
 - Refactoring code into module script for further update
+- (100k+ visits)
 - (20+ ccu)  
 ---
 
