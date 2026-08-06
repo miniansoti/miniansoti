@@ -72,6 +72,14 @@ An obby game but you play with cannon
 - (20+ ccu)  
 ---
 
+## Fur Infection Outbreak 
+https://www.roblox.com/games/120550559221143/Fur-Infection-OutBreak
+
+### Technical Highlights 
+- Tester
+- 50m+ visits
+
+
 # 🚀 Previous Commission Work   
 
 https://www.roblox.com/games/76035039336902/Easter-Obby (30k+ visits)
