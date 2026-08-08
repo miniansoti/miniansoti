@@ -42,22 +42,6 @@ A chaos-based multiplayer gameplay experience where players throw potions that t
 
 <img width="1916" height="1199" alt="image" src="https://github.com/user-attachments/assets/ede521b1-a303-4af2-87e5-9913cb69aea9" />
 
----
-
-## 🍎 Fruit Leveler Tower Defense
-
-A tower defense experience featuring scaling difficulty, upgrade progression, and structured enemy waves.
-
-### Technical Highlights
-
-- Modular tower system
-- Enemy wave manager
-- Scalable upgrade system
-- Server-controlled damage validation
-- Organized data handling for player progression
-
-<img width="1140" height="860" alt="image" src="https://github.com/user-attachments/assets/6b2362f4-a0bb-47fa-96fa-9afe4ea015de" />
-
 ## 🧪 Cannon Obby  
 https://www.roblox.com/games/89022481492309/Cannon-Obby
 
