@@ -52,8 +52,8 @@ An obby game but you play with cannon
 - Intergrate UI functionality  
 - Troll UI, Spin UI, DailyReward UI  
 - Refactoring code into module script for further update
+- Quest Service
 - (100k+ visits)
-- (20+ ccu)  
 ---
 
 ## Fur Infection Outbreak 
