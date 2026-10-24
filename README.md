@@ -67,6 +67,7 @@ https://www.roblox.com/games/120550559221143/Fur-Infection-OutBreak
 # 🚀 Previous Commission Work   
 
 https://www.roblox.com/games/76035039336902/Easter-Obby (30k+ visits)
+https://www.roblox.com/games/93523763376122/Ride-a-Dino(50k peak ccu, 10m+ visits)
 
 ---  
 
